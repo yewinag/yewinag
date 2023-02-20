@@ -14,6 +14,10 @@
   <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="https://www.codewars.com/users/yewinag">
+    <img src="https://www.codewars.com/users/yewinag/badges/large" alt="Codewars Badge"/>
+  </a>
+
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yewinag&style=flat-square&color=blue" alt=""/>
